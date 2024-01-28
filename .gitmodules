@@ -4,3 +4,9 @@
 [submodule "third_party/benchmark"]
 	path = third_party/benchmark
 	url = https://github.com/google/benchmark
+[submodule "third_party/orc"]
+	path = third_party/orc
+	url = https://github.com/apache/orc.git
+[submodule "third_party/arrow"]
+	path = third_party/arrow
+	url = https://github.com/apache/arrow.git
